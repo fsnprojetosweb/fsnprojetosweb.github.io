@@ -1,2 +1,2 @@
-# http://fsnprojetosweb.github.io
+# fsnprojetosweb.github.io
 Projeto da FSN
